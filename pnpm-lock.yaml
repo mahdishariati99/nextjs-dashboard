@@ -2131,3 +2131,5 @@ snapshots:
   yaml@2.4.3: {}
 
   zod@3.23.8: {}
+
+  next@canary: {}
